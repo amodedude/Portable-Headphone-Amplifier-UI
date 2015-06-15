@@ -1,7 +1,5 @@
 // Portable Headphone Amplifier Embedded Software
 // John August 
-// Drexel University 
-// Senior Design Group 01
 
 // Include the UTFT and UTouch Libraries
 // for programing the 3.2" LCD screen
